@@ -15,7 +15,7 @@ This is a tutorial of how to run macOS Mojave on Hp EliteBook Folio 9470m. Do at
   - Set Security Level:
 
 ## Things that do not works:
-<img align="center" src="images/IMG_1404.png" height="250">
+<img align="right" src="images/IMG_1404.png" height="250">
 
 So far everything is working smoothly, except the Bluetooth.
 There are no drivers for Intel Wifi card. So, I replaced my Intel card with Atheros Qualcomm AR5B22.
