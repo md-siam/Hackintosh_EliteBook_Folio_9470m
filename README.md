@@ -7,7 +7,6 @@ This is a tutorial of how to run macOS Mojave on Hp EliteBook Folio 9470m. Do at
   ✰✰✰✰ Because this EFI file is only tested in that BIOS version F.73. ✰✰✰✰
   ```
 - Match your BIOS setting with the pictures gives here:
-<img align="center" src="images/IMG_1392.JPG" height="250">
   - Boot Options:
   - Device Configuration:
   - Built-In Device Options:
