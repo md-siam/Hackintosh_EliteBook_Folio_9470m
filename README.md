@@ -25,4 +25,4 @@ A picture of my WiFi card is given on your right.
 ## Special Thanks To:
 1. [tonymacx86](https://www.tonymacx86.com) 
 2. [geekrar](https://www.geekrar.com) 
-3. [ComputerTipsLaiju](https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s) 
+3. [ComputerTipsLaiju](https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s) for macOS installation
