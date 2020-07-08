@@ -15,3 +15,4 @@ This is a tutorial of how to run macOS Mojave on Hp EliteBook Folio 9470m. Do at
 
 ## Things that do not works:
 So far everything is working smoothly, except the bluetooth.
+<img align="right" src="images/IMG_1404.png" height="250">
