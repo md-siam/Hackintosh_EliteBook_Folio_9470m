@@ -2,7 +2,7 @@
 <p align="justify" >
 This is a tutorial for running macOS Mojave on Hp EliteBook Folio 9470m. Do at your own risk. I will not be responsible for any damage done to your laptop. 
  </p>
- <p align="center"><img src="images/screen_shot.png" width="900"></p>
+ <p align="center"><img src="images/screen_shot.png"></p>
 
 
 ## BIOS Settings:
