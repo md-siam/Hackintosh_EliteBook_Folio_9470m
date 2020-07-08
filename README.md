@@ -1,6 +1,6 @@
 # Hackintosh EliteBook Folio 9470m
 <p align="justify" > 
-If you are a windows user and require macOS to learn XCode, then you can transform your windows machine into the Hackintosh machine. Remember, this tutorial is for educational purpose. I will be not responsible for any damage done to your device while installing macOS. Do at your own risk. This tutorial is only for Hp EliteBook Folio 9470m.
+If you are a windows user and require macOS to learn XCode, then you can transform your windows machine into the Hackintosh machine. Remember, this tutorial is for educational purpose. I will be not responsible for any damage done to your device while installing macOS. Do at your own risk. This tutorial is only for Hp EliteBook Folio 9470m running BIOS version F.73.
 <br>There are lots of videos on how to installing macOS on a device. So, instead of installation, I will be guiding you with the correct BIOS setting before installation, and share my EFI files. Back up your important files before starting. Enjoy.!
 </p>
 <p align="center"><img src="images/screen_shot.png"></p>
@@ -17,7 +17,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   - Device Configuration: [Photo 1](https://www.tonymacx86.com), [Photo 2](https://www.tonymacx86.com), [Photo 3](https://www.tonymacx86.com), [Photo 4](https://www.tonymacx86.com)
   - Built-In Device Options: No change
   - Port Options: ✓Flash media reader, ✓USB Port, ✓Smart Card
-  - AMT Options: [Photo 1](https://www.tonymacx86.com)
+  - AMT Options: [Photo 1](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/AMT_Options/IMG_1401.JPG)
   - Set Security Level: No change
 
 ## Things that do not works:
