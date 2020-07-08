@@ -21,3 +21,8 @@ So far everything is working smoothly, except the Bluetooth.
 There are no drivers for Intel Wifi card. So, I replaced my Intel card with Atheros Qualcomm AR5B22.
 This card is also available for different brand laptop. For HP laptop, buy the card with black label on it.
 A picture of my WiFi card is given on your right.
+
+## Special Thanks To:
+1. [tonymacx86](https://www.tonymacx86.com) 
+2. [geekrar](https://www.geekrar.com) 
+3. [ComputerTipsLaiju](https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s) 
