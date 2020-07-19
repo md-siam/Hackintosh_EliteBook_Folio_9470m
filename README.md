@@ -10,6 +10,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   ```
   ✰✰✰✰✰ First of all, upgrade your ElitBook BIOS to "68IBD Ver. F.73" ✰✰✰✰✰
   ✰✰✰✰ Because this EFI file is only tested in that BIOS version F.73. ✰✰✰✰
+  ✰✰✰✰✰ WARNING! BIOS version downgrade is NOT possible in any laptop ✰✰✰✰✰
   ```
   
 - Match your BIOS setting with the pictures gives below:
