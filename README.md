@@ -30,5 +30,5 @@ So far everything is working smoothly, except the Bluetooth. There are no driver
 
 ## Special Thanks To:
 1. [tonymacx86](https://www.tonymacx86.com) for Clover
-2. [geekrar](https://www.geekrar.com) for macOS Mojave DMG file
+2. [geekrar](https://www.geekrar.com) for macOS Mojave DMG file [Download](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/)
 3. [ComputerTipsLaiju](https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s) for macOS installation
