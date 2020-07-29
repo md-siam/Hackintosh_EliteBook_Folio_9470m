@@ -5,6 +5,22 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 </p>
 <p align="center"><img src="images/screen_shot.png"></p>
 
+## Make Bootable USB with macOS Mojave, on a Windows 10 machine:
+```
+  ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰ You can make a bootable USB from an original Mac machine, or ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
+  ✰✰✰✰✰✰✰✰✰ from a macOS installed into VirtualBox (especially the Windows OS users) ✰✰✰✰✰✰✰✰✰✰
+  ```
+<img align="right" src="images/mojave.jpg" height="280"></img>
+- Here I will explain the process of making a bootable USB drive. So be patience:
+  - Size of the USB drive can be 8GB or more.
+  - You can download the macOS_Mojave.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox and copy "macOS Mojave Installer" into the "Applications" section of macOS.
+  - Use USB 2.0 pen drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/USB_Disconnected.jpg)
+  - Turn on "Terminal" and copy & paste the command below:
+  - ```sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume```
+  - "MyVolume" - it is the name of your USB pen drive.
+  - After making a USB bootable device, download "Clover Configurator" inside the VirtualBox. Mount the EFI partition, of the USB drive, using clover configurator, and replace the EFI folder with my EFI folder (unzip EFI.7z before placing it inside EFI partition).
+  - Done with bootable USB device.
+
 
 ## BIOS Settings:
   ```
