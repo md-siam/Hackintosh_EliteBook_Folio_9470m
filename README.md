@@ -25,7 +25,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 ## Things that do not works:
 <img align="right" src="images/IMG_1404.png" height="250">
 <p align="justify" >
-So far everything is working smoothly, except the <b>Bluetooth</b>. There are no drivers for the Intel Wifi card. So, I replaced my Intel card with Atheros Qualcomm AR5B22. This card is also available for different brand laptops. For HP laptop, buy the card with a black label on it. A picture of my WiFi card is given on your right.
+So far everything is working smoothly, except the <i><b>Bluetooth</b></i>. There are no drivers for the Intel Wifi card. So, I replaced my Intel card with Atheros Qualcomm AR5B22. This card is also available for different brand laptops. For HP laptop, buy the card with a black label on it. A picture of my WiFi card is given on your right.
 </p>
 
 ## Special Thanks To:
